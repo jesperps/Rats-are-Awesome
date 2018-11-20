@@ -2,10 +2,10 @@
 
 Why rats are awesome
 
-+++?image=https://static.boredpanda.com/blog/wp-content/uploads/2015/04/cute-pet-rats-13__880.jpg&position=right&size=50% 100%
++++?image=https://static.boredpanda.com/blog/wp-content/uploads/2015/04/cute-pet-rats-13__880.jpg&position=right&size=50% 50%
 @title[Heading + List Body]
 
-@snap[west split-screen-heading text-orange span-50]
+@snap[west split-screen-heading text-black span-50]
 Why rats are awesome
 @snapend
 
