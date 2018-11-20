@@ -10,15 +10,15 @@ Why rats are awesome
 @snapend
 
 @snap[north-east span-30 fragment]
-@box[bg-purple text-white](They are social)
+@box[bg-black text-white](They are social)
 @snapend
 
 @snap[east span-30 fragment]
-@box[bg-purple text-white](Curiosity is in their DNA)
+@box[bg-black text-white](Curiosity is in their DNA)
 @snapend
 
 @snap[south-east span-30 fragment]
-@box[bg-purple text-white](They come in a multitude of colours)
+@box[bg-black text-white](They come in a multitude of colours)
 @snapend
 
 ---
