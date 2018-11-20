@@ -35,7 +35,6 @@ Why rats are awesome
 
 ![Rat Pic](https://static.boredpanda.com/blog/wp-content/uploads/2015/04/cute-pet-rats-42__880.jpg)
 
----?video=https://www.youtube.com/watch?v=LwlIMoDrIrQ
-### You will never have a dull moment again
-
 ---
+### You will never have a dull moment again
+![Vid]=(https://www.youtube.com/watch?v=LwlIMoDrIrQ)
