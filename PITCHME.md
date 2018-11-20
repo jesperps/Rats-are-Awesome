@@ -21,16 +21,6 @@ Why rats are awesome
 @box[bg-purple text-white](Step 1.#They come in a multitude of colours)
 @snapend
 
-
-@snap[east text-white span-45]
-@ol[split-screen-list](false)
-- They are social
-- Curiosity is in their DNA
-- They come in a multitude of colours
-- You will never have a dull moment again
-@olend
-@snapend
-
 ---
 ### They are social
 ![Rat Pic](https://static.boredpanda.com/blog/wp-content/uploads/2015/04/cute-pet-rats-13__880.jpg)
