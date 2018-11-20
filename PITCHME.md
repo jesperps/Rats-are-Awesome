@@ -39,4 +39,4 @@ Why rats are awesome
 @snap[north]
 <h4>You will never have a dull moment again</h4>
 @snapend
-![Vid](https://youtu.be/LwlIMoDrIrQ)
+![Vid](https://www.youtube.com/embed/LwlIMoDrIrQ)
