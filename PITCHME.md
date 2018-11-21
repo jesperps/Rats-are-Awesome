@@ -29,10 +29,10 @@ They are social
 @snapend
 
 @snap[east split-screen-byline text-white]
-@ol[east text-white span-45]
+@ul[east text-white span-70]
 - Live in packs
 - Therefor need others around them to feel good
-@olend
+@ulend
 @snapend
 
 ---
