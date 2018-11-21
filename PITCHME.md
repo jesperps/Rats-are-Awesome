@@ -47,12 +47,12 @@ Why rats are awesome
 ### Curiosity is in their DNA
 @snapend
 
+@snap[east split-screen-img fragment]
 ![Rat Pic](https://static.boredpanda.com/blog/wp-content/uploads/2015/04/cute-pet-rats-35__880.jpg)
+@snapend
 
 ---
 ### They come in a multitude of colours
-
-![Rat Pic](https://static.boredpanda.com/blog/wp-content/uploads/2015/04/cute-pet-rats-42__880.jpg)
 
 ---?video=https://www.youtube.com/embed/LwlIMoDrIrQ
 @title[Fullscreen Video]
