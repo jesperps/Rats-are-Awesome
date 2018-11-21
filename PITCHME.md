@@ -48,7 +48,7 @@ Why rats are awesome
 @snapend
 
 @snap[east split-screen-img fragment]
-![Rat Pic](https://static.boredpanda.com/blog/wp-content/uploads/2015/04/cute-pet-rats-35__880.jpg)
+![Rat Pic](https://static.boredpanda.com/blog/wp-content/uploads/2015/04/cute-pet-rats-35__880.jpg =200x)
 @snapend
 
 ---
