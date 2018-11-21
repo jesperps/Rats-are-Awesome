@@ -48,7 +48,7 @@ Why rats are awesome
 @snapend
 
 @snap[east sidebar]
-![PLATE](imgs/IMG_1385.JPG)
+![PLATE](imgs/IMG_1294.JPG)
 @snapend
 
 ---
