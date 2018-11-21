@@ -48,7 +48,7 @@ Why rats are awesome
 @snapend
 
 @snap[north-east span-25 fragment]
-![Torsten](imgs/IMG_1385.JPG)
+![Mabel](imgs/IMG_1294.JPG)
 @snapend
 
 @snap[south-east span-25 fragment]
