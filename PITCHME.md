@@ -61,7 +61,7 @@ Why rats are awesome
 
 ---?color=linear-gradient(to right, #ff3399, #6666ff)
 @snap[center heading text-black]
-# They come in a multitude of colours
+### They come in a multitude of colours
 @snapend
 
 ---?color=black
