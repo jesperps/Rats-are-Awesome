@@ -40,7 +40,7 @@ Why rats are awesome
 @box[bg-pink text-white](Doesn't have to be tamed in any particular way)
 @snapend
 
----
+---?color=black&size=50%
 ### Curiosity is in their DNA
 
 ![Rat Pic](https://static.boredpanda.com/blog/wp-content/uploads/2015/04/cute-pet-rats-35__880.jpg)
