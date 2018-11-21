@@ -2,7 +2,7 @@
 
 Why rats are awesome
 
----?image=imgs/IMG_1489.JPG&position=right&size=50% 100%
+---?image=imgs/IMG_1385.JPG&position=right&size=50% 100%
 @title[Heading + List Body]
 
 @snap[west split-screen-heading text-black span-50]
