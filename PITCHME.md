@@ -1,7 +1,5 @@
 # Rats as pets
 
-Why rats are awesome
-
 ---?image=imgs/IMG_1385.JPG&position=right&size=50% 100%
 @title[Heading + List Body]
 
