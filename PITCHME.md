@@ -40,7 +40,7 @@ Why rats are awesome
 @box[bg-pink text-white](Doesn't have to be tamed in any particular way)
 @snapend
 
----?image=https://gitpitch.com/pitchme/cdn/github/gitpitch/the-template/master/BA4DB7870D4E4EE9492FE8B3EA2C1D2A334E549D30467647380FF1B224292E4BF0D4D2C38E8E31940F73097138D67BBFAEC90C4FF6DB042B6AADE30A777811ECCA5549E5D44D6C932BE1850E569684F8416DFF52FA3E2FD21874B50286EF8D02/template/img/bg/black.jpg&position=left&size50% 100%
++++?image=imgs/bg/pink.jpg&position=right&size=50% 100%
 @title[Heading + List Body]
 
 @snap[west split-screen-heading text-black span-50]
