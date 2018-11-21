@@ -55,7 +55,7 @@ Why rats are awesome
 ![Sid](imgs/IMG_1874.JPG)
 @snapend
 
-@snap[midpoint split-screen-img fragment]
+@snap[south-west span-35 fragment]
 ![Football](imgs/IMG_1627.JPG)
 @snapend
 
