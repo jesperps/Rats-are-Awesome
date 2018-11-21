@@ -62,7 +62,7 @@ Why rats are awesome
 ---
 ### They come in a multitude of colours
 
----
+---?color=black
 ![VID](https://www.youtube.com/embed/LwlIMoDrIrQ)
 
 @snap[south-east]
