@@ -55,6 +55,10 @@ Why rats are awesome
 ![Sid](imgs/IMG_1874.JPG)
 @snapend
 
+@snap[midpoint split-screen-img fragment]
+![Football](imgs/IMG_1627.JPG)
+@snapend
+
 ---
 ### They come in a multitude of colours
 
