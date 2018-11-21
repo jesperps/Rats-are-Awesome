@@ -29,17 +29,23 @@ Why rats are awesome
 @snapend
 
 @snap[north-east span-30 fragment]
-@box[bg-purple text-white](They are social)
+@box[bg-purple text-white](Live in packs)
 @snapend
 
 @snap[east span-30 fragment]
-@box[bg-orange text-white](They are social)
+@box[bg-orange text-white](Need others around them to feel good)
 @snapend
 
 @snap[south-east span-30 fragment]
-@box[bg-pink text-white](They are social)
+@box[bg-pink text-white](Don't need to be tamed in any particular way)
 @snapend
 
+@snap[east text-black span-50]
+@ul[split-screen-list](false)
+- 
+- Therefor 
+@ulend
+@snapend
 
 ---
 ### Curiosity is in their DNA
