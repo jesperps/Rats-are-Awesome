@@ -60,7 +60,7 @@ Why rats are awesome
 @snapend
 
 ---?color=linear-gradient(to right, purple, green)
-@snap[west heading text-black span-100]
+@snap[center heading text-black span-100]
 They come in a multitude of colours
 @snapend
 
