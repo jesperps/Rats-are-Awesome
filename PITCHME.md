@@ -62,8 +62,8 @@ Why rats are awesome
 ---
 ### They come in a multitude of colours
 
----?video=https://www.youtube.com/embed/LwlIMoDrIrQ
-@title[Fullscreen Video]
+---
+![VID](https://www.youtube.com/embed/LwlIMoDrIrQ)
 
 @snap[south-east]
 <h4>You will never have a dull moment again</h4>
