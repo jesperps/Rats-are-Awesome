@@ -28,12 +28,14 @@ Why rats are awesome
 They are social
 @snapend
 
+@snap[east span-60]
 @ul
 
 - Live in packs
 - Therefor need others around them to feel good
 
 @ulend
+@snapend
 
 ---
 ### Curiosity is in their DNA
