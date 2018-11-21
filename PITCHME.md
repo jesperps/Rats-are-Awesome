@@ -59,7 +59,7 @@ Why rats are awesome
 ![Football](imgs/IMG_1627.JPG)
 @snapend
 
----?color=linear-gradient(to right, purple, green)
+---?color=linear-gradient(to right, pink, green)
 @snap[center heading text-white span-100]
 They come in a multitude of colours
 @snapend
