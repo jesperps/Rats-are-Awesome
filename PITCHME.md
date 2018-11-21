@@ -37,14 +37,7 @@ Why rats are awesome
 @snapend
 
 @snap[south-east span-30 fragment]
-@box[bg-pink text-white](Don't need to be tamed in any particular way)
-@snapend
-
-@snap[east text-black span-50]
-@ul[split-screen-list](false)
-- 
-- Therefor 
-@ulend
+@box[bg-pink text-white](Doesn't have to be tamed in any particular way)
 @snapend
 
 ---
