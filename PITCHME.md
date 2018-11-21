@@ -40,7 +40,7 @@ Why rats are awesome
 @box[bg-pink text-white](Doesn't have to be tamed in any particular way)
 @snapend
 
-+++?image=imgs/bg/pink.jpg&position=right&size=50% 100%
+---?image=imgs/bg/pink.jpg&position=right&size=50% 100%
 @title[Heading + List Body]
 
 @snap[west split-screen-heading text-black span-50]
