@@ -29,7 +29,7 @@ They are social
 @snapend
 
 @snap[east span-60]
-@ul
+@ul[split-screen-list](false)
 
 - Live in packs
 - Therefor need others around them to feel good
