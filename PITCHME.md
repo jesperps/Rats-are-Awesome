@@ -1,3 +1,4 @@
+---?color=black
 # Rats as pets
 
 ---?image=imgs/IMG_1385.JPG&position=right&size=50% 100%
