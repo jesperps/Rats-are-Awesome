@@ -28,7 +28,7 @@ Why rats are awesome
 They are social
 @snapend
 
-@snap[east text-white span-50]
+@snap[east text-black span-50]
 @ul[split-screen-list](false)
 - Live in packs
 - Therefor need others around them to feel good
