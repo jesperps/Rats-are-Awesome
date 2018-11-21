@@ -24,7 +24,7 @@ Why rats are awesome
 ---?image=imgs/IMG_1530.JPG&size=cover
 @title[Heading + List Body]
 
-@snap[west split-screen-heading text-blue span-50]
+@snap[north-west split-screen-heading text-blue span-50]
 ## They are social
 @snapend
 
