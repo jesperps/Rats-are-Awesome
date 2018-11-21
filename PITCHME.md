@@ -25,7 +25,7 @@ Why rats are awesome
 @title[Heading + List Body]
 
 @snap[west split-screen-heading text-black span-50]
-They are social
+# They are social
 @snapend
 
 @snap[east text-black span-50]
@@ -34,6 +34,19 @@ They are social
 - Therefor need others around them to feel good
 @ulend
 @snapend
+
+@snap[north-east span-30 fragment]
+@box[bg-purple text-white](They are social)
+@snapend
+
+@snap[south-west span-30 fragment]
+@box[bg- text-white](They are social)
+@snapend
+
+@snap[south-west span-30 fragment]
+@box[bg-black text-white](They are social)
+@snapend
+
 
 ---
 ### Curiosity is in their DNA
