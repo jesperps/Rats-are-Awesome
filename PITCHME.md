@@ -21,9 +21,19 @@ Why rats are awesome
 @box[bg-black text-white](They come in a multitude of colours)
 @snapend
 
----
-### They are social
-![Rat Pic](https://static.boredpanda.com/blog/wp-content/uploads/2015/04/cute-pet-rats-13__880.jpg)
+---?image=https://www.noldus.com/files/sleeping-rats_1.jpg=50% 100%
+@title[Heading + List Body]
+
+@snap[west split-screen-heading text-black span-50]
+They are social
+@snapend
+
+@ul
+
+- Live in packs
+- Therefor need others around them to feel good
+
+@ulend
 
 ---
 ### Curiosity is in their DNA
