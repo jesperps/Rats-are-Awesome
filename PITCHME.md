@@ -21,7 +21,7 @@ Why rats are awesome
 @box[bg-black text-white](They come in a multitude of colours)
 @snapend
 
----?image=https://www.noldus.com/files/sleeping-rats_1.jpg&position=right&size=50% 100%
+---?image=https://www.noldus.com/files/sleeping-rats_1.jpg
 @title[Heading + List Body]
 
 @snap[west split-screen-heading text-black span-50]
