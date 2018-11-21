@@ -5,7 +5,7 @@
 @title[Heading + List Body]
 
 @snap[north-west split-screen-heading text-white span-40]
-#### Why rats are awesome
+<b>Why rats are awesome</b>
 @snapend
 
 @snap[north-east span-35 fragment]
