@@ -36,7 +36,7 @@ Why rats are awesome
 @snapend
 
 @snap[south-east span-30 fragment]
-@box[bg-pink text-white](Doesn't have to be tamed in any particular way)
+@box[bg-pink text-white](They are always happy to see you)
 @snapend
 
 ---?image=imgs/bg/pink.jpg&position=right&size=50% 100%
