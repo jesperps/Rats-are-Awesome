@@ -1,7 +1,7 @@
 ---?color=black
 # Rats as pets
 
----?image=imgs/IMG_1385.JPG&position=right&size=50% 100%
+---?image=imgs/IMG_1385.JPG&position=right&size=100% 100%
 @title[Heading + List Body]
 
 @snap[west split-screen-heading text-black span-50]
