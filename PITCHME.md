@@ -25,7 +25,7 @@ Why rats are awesome
 @title[Heading + List Body]
 
 @snap[west split-screen-heading text-black span-50]
-### They are social
+## They are social
 @snapend
 
 @snap[north-east span-30 fragment]
