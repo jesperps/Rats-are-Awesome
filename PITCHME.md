@@ -47,7 +47,7 @@ Why rats are awesome
 ### Curiosity is in their DNA
 @snapend
 
-@snap[east span-50]
+@snap[east span-55]
 ![Mabel](imgs/IMG_1294.JPG)
 @snapend
 
