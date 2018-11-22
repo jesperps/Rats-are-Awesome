@@ -1,4 +1,3 @@
----?color=black
 # Rats as pets
 Why rats are awesome
 
