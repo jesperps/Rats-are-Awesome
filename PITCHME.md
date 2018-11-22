@@ -1,24 +1,6 @@
 ---?color=black
 # Rats as pets
-
----?image=imgs/IMG_1385.JPG&position=left&size=40% 100%
-@title[Heading + List Body]
-
-@snap[north-west split-screen-heading text-white span-40]
-<b>Why rats are awesome</b>
-@snapend
-
-@snap[north-east span-50 fragment]
-@box[bg-black text-white](#They are social)
-@snapend
-
-@snap[east span-50 fragment]
-@box[bg-black text-white](#Curiosity is in their DNA)
-@snapend
-
-@snap[south-east span-50 fragment]
-@box[bg-black text-white](#They come in a multitude of colours)
-@snapend
+Why rats are awesome
 
 ---?image=imgs/IMG_1530.JPG&size=cover
 @title[Heading + List Body]
