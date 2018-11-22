@@ -5,7 +5,7 @@ Why rats are awesome
 @title[Heading + List Body]
 
 @snap[west heading text-black span-50]
-# 1 They are social
+## 1 They are social
 @snapend
 
 @snap[north-east span-30 fragment]
