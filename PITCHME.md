@@ -5,7 +5,7 @@ Why rats are awesome
 @title[Heading + List Body]
 
 @snap[west heading text-black span-50]
-## 1 They are social
+## They are social
 @snapend
 
 @snap[north-east span-30 fragment]
@@ -24,7 +24,7 @@ Why rats are awesome
 @title[Heading + List Body]
 
 @snap[west split-screen-heading text-black span-50]
-### 2 Curiosity is in their DNA
+### Curiosity is in their DNA
 @snapend
 
 @snap[north-east span-45]
@@ -41,7 +41,7 @@ Why rats are awesome
 
 ---?color=linear-gradient(to right, #ff3399, #6666ff)
 @snap[center heading text-black]
-## 3 They come in a multitude of colours
+## They come in a multitude of colours
 @snapend
 
 ---?color=black
